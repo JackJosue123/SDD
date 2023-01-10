@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672586452 source:/home/jack/block-workspace/luffy07/main.c
+	<stdio.h>
+	<stdlib.h>
+	"nombres.h"
+	"nombres.c"
+
+1672576416 /home/jack/block-workspace/luffy07/nombres.h
+
+1672586845 /home/jack/block-workspace/luffy07/nombres.c
+	<stdio.h>
+	<stdlib.h>
+	"nombres.h"
+
